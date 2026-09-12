@@ -1,44 +1,24 @@
 # 👋 Hi, I'm Jayaraj B
 
-### 💻 Computer Science Engineering Student | Software Developer | Cloud & Emerging Technologies
-
-I'm a **Computer Science Engineering student at Saveetha Engineering College** with a background in **Electronics and Communication Engineering**.
-
-I enjoy building technology-driven solutions and exploring how **software, cloud computing, IoT, and blockchain** can be used to solve real-world problems.
-
-My technical foundation includes **Java, Python, and C**, and I am continuously improving my skills in **Data Structures & Algorithms, software development, AWS, and cloud technologies**.
-
+### 💻 Computer Science Engineering student at Saveetha Engineering College | Aspiring Software Developer 
+>  Java • Python • C | AWS & Cloud Computing | IoT • Blockchain
+### 🧠Building practical solutions and continuously improving my problem-solving & DSA skills.
 ---
 
 ## 🚀 About Me
 
-* 🎓 Pursuing **B.E. Computer Science and Engineering**
-* 🔌 Diploma background in **Electronics and Communication Engineering**
-* 💻 Interested in **Software Development & Cloud Computing**
-* ☕ Currently strengthening my **Java & DSA** skills
-* ☁️ Exploring **AWS & Cloud Technologies**
-* 🌐 Interested in **IoT and Smart Systems**
-* 🔗 Exploring **Blockchain Technology**
-* 🔧 Hands-on exposure to **PCB Design**
-* 📈 Exposure to **Digital Marketing**
-* 🤝 Open to collaborating on interesting technology projects
-* 🎯 Preparing for opportunities in the **Software & Technology industry**
+* 🎓 B.E. Computer Science & Engineering Student
+* 🔌 Diploma in Electronics & Communication Engineering
+* ☕ Learning Java, DSA & Problem Solving
+* ☁️ Exploring AWS & Cloud Technologies
+* 🌐 Interested in IoT , Blockchain & Software Development 
+* 🔧 Experience with PCB Design
+* 📈 Exposure to Digital Marketing
+* 🤝 Open to Collaboration & New Opportunities
+
 
 ---
-
-## 🧑‍💻 What I Do
-
-```text
-Software Development     █████████████████░░░
-Problem Solving           ████████████████░░░░
-Java & Programming        ████████████████░░░░
-Cloud & AWS               ██████████████░░░░░░
-IoT                       █████████████░░░░░░░
-Blockchain                ████████████░░░░░░░░
-```
-
 I focus on building a strong foundation in programming while gradually expanding into modern technologies and real-world development.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -46,9 +26,10 @@ I focus on building a strong foundation in programming while gradually expanding
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+
 </p>
 
 ### ☁️ Cloud & Technologies
@@ -62,9 +43,8 @@ I focus on building a strong foundation in programming while gradually expanding
 ### 🔧 Tools & Development
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+
 </p>
 
 ---
