@@ -5,13 +5,11 @@
 ### 💡I focus on building a strong foundation in programming while gradually expanding into modern technologies and real-world development.
 ---
 ## 🚀 About Me
-* 🎓 B.E. Computer Science & Engineering Student
 * 🔌 Diploma in Electronics & Communication Engineering
 * ☕ Learning Java, DSA & Problem Solving
 * ☁️ Exploring AWS & Cloud Technologies
 * 🌐 Interested in IoT , Blockchain & Software Development 
 * 🔧 Experience with PCB Design
-* 📈 Exposure to Digital Marketing
 * 🤝 Open to Collaboration & New Opportunities
 ---
 ## 🛠️ Tech Stack
