@@ -43,9 +43,9 @@
     <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:jayaraj.bf1@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=ihMzI7k32pJf&format=png&color=000000" width="50" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jayaraj.bf1@gmail.com">
+  <img src="https://img.icons8.com/?size=100&id=ihMzI7k32pJf&format=png&color=000000" width="50" alt="Email">
+</a>
 </p>
 
 ---
